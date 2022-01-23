@@ -1,0 +1,18 @@
+Step 1 : START
+Step 2 : Defining names of candidates in user defined functions
+Step 3 : Declaring Vote counts as variables
+Step 4 : Printing the options to cast the votes
+Step 5 : Taking the choice from user
+Step 6 : switching the choice of votes of candidates
+Step 7 : Increase 1 vote count for the candidate which the user chose 
+Step 8 : If user didn't choose from the given candidates print "Wrong choice"
+Step 9 : To count the votes of each individual candidates 
+Step 10 : If votes goes to other than candidates then print the numbers of spoiled votes
+Step 11 : To show the leading candidate use if else statement to find the candidate with the highest number of votes
+Step 12 : Print the winning candidate's name otherwise Print "No Winning situation" if votes are tie between candidates  
+Step 13 : Declaring the choice as integer variable 
+Step 14 : In the console screen if the user choose 1st option to cast the vote take him to choose/vote the candidate
+Step 15 : If the user choose 2nd option to Find the vote count take him to show the vote counts of the candidates
+Step 16 : If the user choose 3rd option to Find the leading candidate take him to show the leading candidate   
+Step 17 : If the user choose 0th option to Exit to end the program and print Thanks for Voting
+Step 18 : STOP
